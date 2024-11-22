@@ -11,3 +11,7 @@ new lines added for demo purpose
 testing git conflict
 
 hello
+
+checking git conflict
+
+hello nidhi
